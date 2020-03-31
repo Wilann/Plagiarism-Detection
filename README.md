@@ -15,7 +15,7 @@ Built a plagiarism detector, using AWS SageMaker, that examines a text file and 
 - Explored existing data features and data distribution (types of plagiarism/tasks)
 
 **Notebook 2: Feature Engineering**
-- Cleaned and pre-process the text data (convert categorial to numerical data) 
+- Cleaned and pre-process the text data (convert categorical to numerical data) 
 - Defined features (Containment with an n-gram range and Longest Common Subsequence) for comparing the similarity of an answer text and a source text, and extract similarity features 
 - Selected "good" features, by analyzing the correlations between different features 
 - Created train/test `.csv` files that hold relevant features and class labels for train/test data points 
