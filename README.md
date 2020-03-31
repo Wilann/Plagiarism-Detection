@@ -1,6 +1,6 @@
 # SageMaker Machine Learning
 
-## Project: Plagiarism Project 
+## Project: Plagiarism Detection 
 
 ### Source 
 
