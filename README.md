@@ -15,7 +15,6 @@ There are 3 main notebooks:
 **Notebook 1: Data Exploration**
 * Load in the corpus of plagiarism text data.
 * Explore the existing data features and the data distribution.
-* This first notebook is **not** required in your final project submission.
 
 **Notebook 2: Feature Engineering**
 
