@@ -10,8 +10,6 @@ Project 6 from Udacity's [Machine Learning Engineer Nanodegree](https://www.udac
 
 Building a plagiarism detector, using AWS SageMaker, that examines a text file and performs binary classification; labeling that file as either *plagiarized* or *not*, depending on how similar that text file is to a provided source text. 
 
-There are 3 main notebooks:
-
 **Notebook 1: Data Exploration**
 * Load in the corpus of plagiarism text data.
 * Explore the existing data features and the data distribution.
