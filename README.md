@@ -27,8 +27,3 @@ Building a plagiarism detector, using AWS SageMaker, that examines a text file a
 * Define a binary classification model and a training script.
 * Train your model and deploy it using SageMaker.
 * Evaluate your deployed classifier.
-
----
-
-Please see the [README](https://github.com/udacity/ML_SageMaker_Studies/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
-
